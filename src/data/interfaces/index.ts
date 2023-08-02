@@ -1,0 +1,5 @@
+export * from './IgetCategoriesRepository'
+export * from './IgetProductsRepository'
+export * from './IgetProductByIdRepository'
+export * from './IgetAttributesRepository'
+export * from './IgetAttributeTermsRepository'
